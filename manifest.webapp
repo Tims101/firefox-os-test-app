@@ -1,0 +1,20 @@
+{
+  "version": "0.2",
+  "name": "Weather / London",
+  "description": "Simple application that shows current weather in London",
+  "launch_path": "/firefox-os-test-app/index.html",
+  "icons": {
+    "512": "http://tims101.github.io/firefox-os-test-app/img/weather-512.png",
+    "128": "http://tims101.github.io/firefox-os-test-app/img/weather-128.png"
+  },
+  "developer": {
+    "name": "Timur Bilalov"
+  },
+  "permissions": {
+    "systemXHR": {
+      "description": "Allows loading weather forecast"
+    }
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "en"
+} 
