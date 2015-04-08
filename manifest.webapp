@@ -1,5 +1,5 @@
 {
-  "version": "0.2.2",
+  "version": "0.5",
   "name": "Weather / London",
   "description": "Simple application that shows current weather in London",
   "launch_path": "/firefox-os-test-app/index.html",
